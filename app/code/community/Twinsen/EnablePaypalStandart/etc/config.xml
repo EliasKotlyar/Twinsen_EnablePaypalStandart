@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Twinsen_EnablePaypalStandart>
+            <version>1.0.0</version>
+        </Twinsen_EnablePaypalStandart>
+    </modules>
+    <global>
+
+        <helpers>
+            <Twinsen_EnablePaypalStandart>
+                <class>Twinsen_EnablePaypalStandart_Helper</class>
+            </Twinsen_EnablePaypalStandart>
+        </helpers>
+    </global>
+</config> 
